@@ -1,0 +1,19 @@
+.tb{
+    margin: 50px auto;
+}
+th{
+    width: 120px;
+    height: 40px;
+    background-color: #999999;
+    border: 1px solid #333;
+}
+td{
+    width: 120px;
+    height: 40px;
+    border: 1px solid #333;
+    text-align: center;
+}
+.tb a{
+    text-decoration: none;
+    color: black;
+}
